@@ -1,0 +1,15 @@
+C:\git\Client\Client\bin\Debug\net6.0\Client.exe
+C:\git\Client\Client\bin\Debug\net6.0\Client.deps.json
+C:\git\Client\Client\bin\Debug\net6.0\Client.runtimeconfig.json
+C:\git\Client\Client\bin\Debug\net6.0\Client.dll
+C:\git\Client\Client\bin\Debug\net6.0\Client.pdb
+C:\git\Client\Client\obj\Debug\net6.0\Client.csproj.AssemblyReference.cache
+C:\git\Client\Client\obj\Debug\net6.0\Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\git\Client\Client\obj\Debug\net6.0\Client.AssemblyInfoInputs.cache
+C:\git\Client\Client\obj\Debug\net6.0\Client.AssemblyInfo.cs
+C:\git\Client\Client\obj\Debug\net6.0\Client.csproj.CoreCompileInputs.cache
+C:\git\Client\Client\obj\Debug\net6.0\Client.dll
+C:\git\Client\Client\obj\Debug\net6.0\refint\Client.dll
+C:\git\Client\Client\obj\Debug\net6.0\Client.pdb
+C:\git\Client\Client\obj\Debug\net6.0\Client.genruntimeconfig.cache
+C:\git\Client\Client\obj\Debug\net6.0\ref\Client.dll
